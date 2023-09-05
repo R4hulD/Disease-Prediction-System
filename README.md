@@ -64,3 +64,4 @@ Disease Recommendation will be available infront of the labels of algorithm of u
 Click on "Reset" button to predict the disease for any other patient or Press "Exit System" button to come out of the GUI.
 
 # A picture of GUI Interface
+![gui1 2](https://github.com/R4hulD/Disease-Prediction-System/assets/101360312/b8d71f07-0aa2-4d92-9ec0-30a150c86ec8)
